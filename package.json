@@ -2,7 +2,7 @@
   "name": "netflixreact",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://mbc930.github.io/react_netflix",
+  "homepage": "https://mbc930.github.io/react_netflix/",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
     "@testing-library/react": "^13.4.0",
